@@ -18,7 +18,7 @@ This tool requires entry level of understanding:
 
 ## 🎯 Who This Tool Is For
 
-- This tool is intended for beginner use and to solidy foundational skills in analysing network statistics
+- This tool is intended for beginner use and to solidify foundational skills in analysing network statistics
 
 ## 🛠️ Future Plans
 The following features are planned for future releases:
